@@ -17,6 +17,8 @@ Please fill the template below:
 #### Description
 <!-- Please be as detailed as possible. Screenshots can help a lot for visual bugs. -->
 
+
+
 #### Steps to reproduce
 <!-- What did you do that caused the bug? -->
 
@@ -26,3 +28,4 @@ Please fill the template below:
 
 #### Possible solutions
 <!-- Anything that you think can help solve the problem (optional) -->
+
