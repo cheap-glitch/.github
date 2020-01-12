@@ -1,6 +1,7 @@
 ---
 name: ヽ(≧Д≦)ノ Bug report
 about: Report a bug
+labels: bug
 ---
 
 <!--
